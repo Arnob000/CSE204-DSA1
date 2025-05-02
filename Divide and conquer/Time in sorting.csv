@@ -1,0 +1,8 @@
+,,,,,Time required in ms
+n,Merge Sort,Quicksort,Randomized Quicksort,Insertion Sort,Quicksort with sorted input,Randomized Quicksort with sorted input,STL sort() function
+5,0,0,0,0,0,0,0
+10,0,0,0,0.05,0,0,0
+100,0.05,0,0,0.1,0,0.1,0
+1000,0.3,0.1,0.25,3.85,8.5,0.3,0.25
+10000,3.25,2.25,3.35,372.45,748,3.2,2.5
+40000,14.8,10.1,15.55,6043.75,11968.8,14.75,11.35
